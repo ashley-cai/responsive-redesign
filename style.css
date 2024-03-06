@@ -361,3 +361,39 @@
     font-family: "GT-America-Medium";
     font-size: .7em;
   }
+
+
+
+  /* DOCUMENATION STYLES */
+  .documentation-wrapper {
+    font-size: 1.2em;
+    margin: auto;
+    margin-top: 10em;
+    width: 40%;
+  }
+
+  .doc-heading {
+    font-size: 3em;
+    margin-bottom: .5em;
+  }
+  .doc-heading2 {
+    font-size: 2em;
+    margin-bottom: .5em;
+
+  }
+  .doc-heading3 {
+    font-size: 1.4em;
+    margin-bottom: .5em;
+  }
+
+  .doc-paragraph {
+    font-family: "GT-America-Regular";
+  }
+
+  .bolded {
+    font-family: "GT-America-Medium";
+  }
+
+  .doc-img {
+    width: 100%;
+  }
