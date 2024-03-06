@@ -395,5 +395,7 @@
   }
 
   .doc-img {
-    width: 100%;
+    margin: auto;
+    margin-top: 10em;
+    width: 40%;
   }
